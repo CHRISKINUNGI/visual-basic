@@ -1,0 +1,22 @@
+C:\Users\Chris\source\repos\MyStudent\bin\Debug\MyStudent.exe.config
+C:\Users\Chris\source\repos\MyStudent\bin\Debug\MyStudent.exe
+C:\Users\Chris\source\repos\MyStudent\bin\Debug\MyStudent.pdb
+C:\Users\Chris\source\repos\MyStudent\bin\Debug\MyStudent.xml
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.Form1.resources
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.Resources.resources
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.vbproj.GenerateResource.cache
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.exe
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.xml
+C:\Users\Chris\source\repos\MyStudent\obj\Debug\MyStudent.pdb
+F:\Visual basic projects\repos\MyStudent\bin\Debug\MyStudent.exe.config
+F:\Visual basic projects\repos\MyStudent\bin\Debug\MyStudent.exe
+F:\Visual basic projects\repos\MyStudent\bin\Debug\MyStudent.pdb
+F:\Visual basic projects\repos\MyStudent\bin\Debug\MyStudent.xml
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.Form1.resources
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.Resources.resources
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.vbproj.GenerateResource.cache
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.vbproj.CoreCompileInputs.cache
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.exe
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.xml
+F:\Visual basic projects\repos\MyStudent\obj\Debug\MyStudent.pdb
